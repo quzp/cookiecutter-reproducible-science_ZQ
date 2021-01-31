@@ -6,6 +6,7 @@
 Project Organization
 --------------------
 
+```
 .
 ├── AUTHORS.md
 ├── LICENSE
@@ -29,3 +30,4 @@ Project Organization
     ├── models         <- Source code for your own model
     ├── tools          <- Any helper scripts go here
     └── visualization  <- Scripts for visualisation of your results, e.g., matplotlib, ggplot2 related.
+```
