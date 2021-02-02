@@ -2,6 +2,7 @@ Reproducible Science
 ====================
 
 A boilerplate for reproducible and transparent science with close resemblances to the philosophy of [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science): *A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.*
+modified from [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science)
 
 Requirements
 ------------
